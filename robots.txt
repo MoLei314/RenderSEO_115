@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://https://renderseo-115.onrender.com/sitemap.xml
